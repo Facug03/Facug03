@@ -28,5 +28,5 @@ Inglés C1 Avanzado.
 
 
 ### 📞 Contactame
-Mail: facundogonzales1550@gmail.com
-GitHub: https://github.com/Facug03
+* Mail: facundogonzales1550@gmail.com
+* GitHub: https://github.com/Facug03
