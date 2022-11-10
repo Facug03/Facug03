@@ -22,6 +22,11 @@ Completé el bootcamp de desarrollo web en Henry y ahora estoy buscando la oport
 
 Además tengo experiencia haciendo y menejando proyectos con Git y deployando con Vercel Railway
 
+### 📄 Idiomas
+Español nativo.
+Inglés C1 Avanzado.
+
+
 ### 📞 Contactame
 Mail: facundogonzales1550@gmail.com
 GitHub: https://github.com/Facug03
