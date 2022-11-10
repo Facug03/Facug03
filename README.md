@@ -9,16 +9,16 @@ Si algo me gusta, me meto mucho en ello y nunca dejo de investigar para aprender
 Completé el bootcamp de desarrollo web en Henry y ahora estoy buscando la oportunidad de entrar en un proyecto donde pueda demostrar todo lo que he aprendido.
 
 ### 💻 Skills
- • JavaScript 
- • React.js 
- • Redux 
- • Tailwind 
- • Firebase
- • Git
- • Node.js 
- • Express 
- • Sequelize 
- • PostgreSQL 
+ * JavaScript
+ * React.js 
+ * Redux 
+ * Tailwind 
+ * Firebase
+ * Git
+ * Node.js 
+ * Express 
+ * Sequelize 
+ * PostgreSQL 
 
 Además tengo experiencia haciendo y menejando proyectos con Git y deployando con Vercel Railway
 
