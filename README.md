@@ -27,4 +27,4 @@ Inglés C1 Avanzado.
 
 ### 📞 Contactame
 * Mail: facundogonzales1550@gmail.com
-* LinkedIn: [https://www.linkedin.com/in/facundo-gonzalez-ivan/](https://www.linkedin.com/in/facundogonza/)https://www.linkedin.com/in/facundogonza/
+* LinkedIn: https://www.linkedin.com/in/facundogonza/
